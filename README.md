@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 coding here, animating else where
+
+-Name: Marc Brunswick
+-Major: BA Computer Science
+-Projects: TBA
