@@ -19,4 +19,4 @@ coding here, animating else where
 
 -Name: Marc Brunswick
 -Major: BA Computer Science
--Projects: TBA
+-Projects: Genetic Code Project
